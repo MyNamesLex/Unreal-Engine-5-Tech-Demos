@@ -13,3 +13,5 @@ Move Left: A
 Jump: Space
 
 Shoot: Left Mouse Click
+
+Restart Scene: J
