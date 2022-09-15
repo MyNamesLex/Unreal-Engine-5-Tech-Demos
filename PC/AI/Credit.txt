@@ -1,0 +1,3 @@
+Model and Animations from mixamo:
+Model - Survivor A Lusth
+Animation - Zombie Running, Zombie Idle
