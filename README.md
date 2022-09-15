@@ -12,4 +12,4 @@ First Time Trying Out Unreal Engine 5 And Made A Player Controller And A Shoot M
 
 ### AI
 
-First Time Trying Out Making AI In Unreal Engine 5, Using Animation State Machines For The AI, Blueprints Connected To C++ And A Different Player Controller.
+First Time Trying Out Making AI In Unreal Engine 5, Using Animation State Machines For The AI Aswell As NavMesh, Blueprints Connected To C++ And A Player Controller With A Shoot Mechanic.
