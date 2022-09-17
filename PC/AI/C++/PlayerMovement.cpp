@@ -14,7 +14,6 @@ APlayerMovement::APlayerMovement()
 void APlayerMovement::BeginPlay()
 {
 	Super::BeginPlay();
-	bUseControllerRotationPitch = true;
 }
 
 // Called every frame
