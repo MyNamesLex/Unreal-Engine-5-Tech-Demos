@@ -16,4 +16,4 @@ Trying Out Making AI In Unreal Engine 5, Using Animation State Machines For The 
 
 ### Gun Types
 
-Coding Different Types Of Guns Which Are A Rifle, Pistol And Rocket Launcher With Different Rate Of Fire And Damage Dealing Values. Also Coded Different Types Of Targets For The Player To Shoot At. These Include Stationary Moving From One Point To Another In A Repeatable Pattern And A Target Which Moves To A Random Location.
+Coding Different Types Of Guns. These Are A Rifle, Pistol And Rocket Launcher With Different Rate Of Fire And Damage Dealing Values. Also Coded Different Types Of Targets For The Player To Shoot At. These Include Stationary Moving From One Point To Another In A Repeatable Pattern And A Target Which Moves To A Random Location.
