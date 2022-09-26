@@ -20,4 +20,4 @@ Coding Different Types Of Guns. These Are A Rifle, Pistol And Rocket Launcher Wi
 
 ### Jams
 
-Featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
+Jam games I have done in this engine are featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
