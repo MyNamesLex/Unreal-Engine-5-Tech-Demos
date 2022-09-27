@@ -1,4 +1,4 @@
-# Small Unreal Engine 5 Tech Demos
+# Unreal Engine 5 Tech Demos
 
 (This repo only involves use of the Unreal Engine 5 Game Engine using the C++ language and Blueprints)
 
