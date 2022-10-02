@@ -20,7 +20,7 @@ Coding Different Types Of Guns. These Are A Rifle, Pistol And Rocket Launcher Wi
 
 ### Third Person Player Controller
 
-Made A Third Person Player Controller Using Blueprints And C++. Using Blend Spaces To Make Animations Look Smoother, I Would Of Made A Blend Space For Crawling But Could Not Find The Animations For Crawling Left, Back And Crawling Right So I Was Unable Too.
+Made A Third Person Player Controller Using Blueprints And C++. Using Blend Spaces To Make Animations Look Smoother, I Would Of Made A Blend Space For Crawling But I Could Not Find The Animations For Crawling Left, Back And Crawling Right So I Was Unable Too.
 
 
 ## Jams
