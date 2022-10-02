@@ -18,6 +18,11 @@ Trying Out Making AI In Unreal Engine 5, Using Animation State Machines For The 
 
 Coding Different Types Of Guns. These Are A Rifle, Pistol And Rocket Launcher With Different Rate Of Fire And Damage Dealing Values. Also Coded Different Types Of Targets For The Player To Shoot At. These Include Stationary Targets, Moving Targets Going From One Point To Another In A Repeatable Pattern And A Target Which Moves To A Random Location.
 
+### Third Person Player Controller
+
+Made A Third Person Player Controller Using Blueprints And C++. Using Blend Spaces To Make Animations Look Smoother, I Would Of Made A Blend Space For Crawling But Could Not Find The Animations For Crawling Left, Back And Crawling Right So I Was Unable Too.
+
+
 ## Jams
 
 Jam games I have done in this engine are featured <a href="https://github.com/MyNamesLex/All-Jams">here</a>.
