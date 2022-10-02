@@ -20,4 +20,4 @@ Jump: Space
 
 Move Camera Closer To Player: Mouse Scroll Up
 
-Move Camera Further To Player: Mouse Scroll Down
+Move Camera Further From Player: Mouse Scroll Down
